@@ -2,3 +2,4 @@ it`s me.
 do you want to come with me?
 
 it`s error line!
+it`s ok!
